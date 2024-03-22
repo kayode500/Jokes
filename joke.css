@@ -1,0 +1,39 @@
+body{
+    background-color: darkgray;
+}
+
+
+#main{
+    background-color: burlywood;
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    margin-top: 40px;
+}
+h1{
+    font-weight: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+    margin-top: 200px;
+    height: 60px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+p{
+    color: black;
+
+    
+}
+#jokes{
+    text-align: center;
+    color:black;
+    font-size: 25px;
+
+
+}
